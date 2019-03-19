@@ -1,5 +1,3 @@
-console.log('working')
-
 
 const weatherForm = document.querySelector('form')
 const searchElement = document.querySelector('input')
